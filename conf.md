@@ -1,2 +1,2 @@
-This is the first file for the conflict.
-WE will make anotherfile - dipro.
+This is the second file for the conflict.
+WE Will not make another file - dipro.
